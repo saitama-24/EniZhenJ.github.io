@@ -1,4 +1,4 @@
-/* normalize.css v3.0.2 | MIT License | git.io/normalize */
+﻿/* normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
   font-family: sans-serif; /* 1 */
   -ms-text-size-adjust: 100%; /* 2 */
@@ -2691,9 +2691,7 @@ img:hover {
     transform: scale(1);
   }
 }
-.page-post-detail .sidebar-toggle-line {
-  background: #87daff;
-}
+.page-post-detail .sidebar-toggle-line {}
 .page-post-detail .comments {
   overflow: hidden;
 }
