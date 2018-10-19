@@ -2691,7 +2691,9 @@ img:hover {
     transform: scale(1);
   }
 }
-.page-post-detail .sidebar-toggle-line {}
+.page-post-detail .sidebar-toggle-line {
+	/* background: #87daff; */
+}
 .page-post-detail .comments {
   overflow: hidden;
 }
