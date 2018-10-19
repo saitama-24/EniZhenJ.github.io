@@ -1,4 +1,4 @@
-﻿/* normalize.css v3.0.2 | MIT License | git.io/normalize */
+/* normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
   font-family: sans-serif; /* 1 */
   -ms-text-size-adjust: 100%; /* 2 */
@@ -1934,7 +1934,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #fb08f0;
+  background: #ff3929;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2692,7 +2692,7 @@ img:hover {
   }
 }
 .page-post-detail .sidebar-toggle-line {
-	/* background: #87daff; */
+  background: #87daff;
 }
 .page-post-detail .comments {
   overflow: hidden;
